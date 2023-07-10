@@ -1,5 +1,6 @@
 For this project, I utilize SQL for data exploration and Tableau for data visualization. The dataset consists of confirmed COVID-19 deaths in Canada and other countries from January 2020 to February 2023. The dataset was downloaded from the following website:
 https://ourworldindata.org/covid-deaths
+
 The answers of the following questions are covered in this project:
 
 1- What is the likelihood of dying in Canada?
